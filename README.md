@@ -1,3 +1,2 @@
-# TextMining_Ai
-Teruntuk Kelompok Ai ku tercintahh
-Ini semua berkat hapis dan clara yang membantu project ini berjalan ♥
+# TextMining_NaiveBayes
+This text mining use Java as programming language and implement Naive Bayes as algorithm. I got the dataset from Lazada E-Commerce, i use 
